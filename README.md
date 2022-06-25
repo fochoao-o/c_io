@@ -9,10 +9,8 @@ include <iostream>
 include <string>
     
 include "InputOutput.h"
-    
 
 int main()
-    
     
 {
     
@@ -48,3 +46,5 @@ int main()
 pragma once
 
 int main();
+
+	
