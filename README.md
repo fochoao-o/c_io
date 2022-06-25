@@ -1,6 +1,6 @@
 # C++ Input/Output
 
-## C++ Input Output in command line form.
+## C++ Input Output in command line.
 
 # Here is the code of the .cpp file or code of C++ file.
 
