@@ -4,11 +4,11 @@
 
 # Here is the code of the .cpp file or code of C++ file.
 
-###### #include <iostream>
+include <iostream>
     
-###### #include <string>
+include <string>
     
-###### #include "InputOutput.h"
+include "InputOutput.h"
     
 
 int main()
@@ -45,6 +45,6 @@ int main()
   
 # Here is the code of the .h file or header file.
   
-###### #pragma once
+pragma once
 
 int main();
